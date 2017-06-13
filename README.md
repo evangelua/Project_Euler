@@ -1,2 +1,2 @@
 # Project_Euler
-My progress on www.projecteuler.net in Perl
+My progress on www.projecteuler.net
